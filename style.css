@@ -1,0 +1,258 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.Cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.Cart h3{
+    font-size: 18px;
+    
+}
+
+#kw-logo{
+    width:150px;
+    padding-left:90px;
+}
+
+#cart-icon{
+    width:30px;
+}
+
+.content{
+    background-image: url(./images/kw-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.content div{
+    padding: 20px;
+    padding-left:50px;
+}
+
+.content div h1 {
+    color:white;
+    padding-left: 40px;
+    font-size: 50px;
+    margin-top:30px;
+    
+}
+
+.content h6{
+    color:white;
+    padding-left: 40px;
+    font-size:20px;
+    margin-top:10px;
+}
+
+.books{
+    padding-top:100px;
+}
+
+.books h1{
+ font-size:25px;
+ padding-left:20px;
+ margin-bottom:0;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+.individual{
+    width: 170px;
+}
+
+.individual img{
+    width:170px;
+}
+
+.individual button img{
+  width:30px;
+
+}
+
+.individual h3{
+    font-size: 18px;
+    margin:0;
+}
+
+.individual h4{
+    font-size:15px;
+    color:rgb(186, 186, 186);
+    font-weight:lighter;
+    margin-top:10px;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.button button{
+    background-color: #256aae;
+    border: none;
+    border-radius: 9px;
+    color:white;
+
+}
+
+
+.games{
+    padding-top:100px;
+}
+
+.games h1{
+ font-size:25px;
+ padding-left:20px;
+ margin-bottom:0;
+}
+
+.img1{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+.alone{
+    width: 300px;
+}
+
+.alone img{
+    width:300px;
+}
+
+.alone button img{
+  width:30px;
+
+}
+
+.alone h3{
+    font-size: 18px;
+    margin:0;
+}
+
+.alone h4{
+    font-size:15px;
+    color:rgb(186, 186, 186);
+    font-weight:lighter;
+    margin-top:10px;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button button{
+    background-color: #256aae;
+    border: none;
+    border-radius: 9px;
+    color:white;
+}
+
+
+.handmade{
+    padding-top:100px;
+}
+
+.handmade h1{
+ font-size:25px;
+ padding-left:20px;
+ margin-bottom:0;
+}
+
+.img2{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+.love{
+    width: 250px;
+}
+
+.love img{
+    width:250px;
+}
+
+.love button img{
+  width:30px;
+
+}
+
+.love h3{
+    font-size: 18px;
+    margin:0;
+}
+
+.love h4{
+    font-size:15px;
+    color:rgb(186, 186, 186);
+    font-weight:lighter;
+    margin-top:10px;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button button{
+    background-color: #256aae;
+    border: none;
+    border-radius: 9px;
+    color:white;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin-top:100px;
+}
+
+
+.photo img{
+    border-radius: 50%;
+    width:200px;
+}
+
+.photo h3{
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:30px;
+}
+
+.info {
+    color:white;
+    display:flex;
+    align-items: right;
+    flex-direction: column;
+    text-align: right;
+    padding-right: 10px;
+    
+}
